@@ -1,6 +1,6 @@
-import react,{Component} from 'react';
+import React,{Component} from 'react';
 
-class Users extends Component{
+class User extends Component{
     render(){
         return (
             <div>
@@ -11,4 +11,4 @@ class Users extends Component{
     }
 }
 
-export default Users;
+export default User;
