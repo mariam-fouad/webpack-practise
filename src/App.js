@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import {Link,Route } from 'react-router-dom';
 
 import User from './containers/User';
-import asyncComponent from '/hoc/asyncComponent';
+import asyncComponent from './hoc/asyncComponent';
 
 const asycPizza = asyncComponent(()=>{
     return import('./containers/Pizza');
