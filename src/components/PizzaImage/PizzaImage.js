@@ -1,7 +1,7 @@
 import React from 'react';
 import classes from './PizzaImage.css';
 
-import PizzaImge from '../assets/pizza.jpg';
+import PizzaImge from '../../assets/pizza.jpg';
 
 const PizzaImage = (props)=>{
     return (
