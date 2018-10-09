@@ -1,0 +1,11 @@
+.PizzaImgWrapper{
+    width: 80%;
+    height: 300px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.PizzaImg{
+    width: 100%;
+    height: 100%;
+}
